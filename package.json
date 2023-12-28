@@ -1,8 +1,8 @@
 {
-  "name": "interface",
+  "name": "Dataloc-FrontEnd",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://zakich4n.github.io",
+  "private": false,
+  "homepage": "https://zakich4n.github.io/Dataloc-FrontEnd",
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
     "@chakra-ui/react": "^2.8.1",
