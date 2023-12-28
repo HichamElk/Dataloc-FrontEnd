@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/daDataloc-FrontEnd/static/js/main.422c0d4c.js",
-    "static/js/787.14430825.chunk.js": "/daDataloc-FrontEnd/static/js/787.14430825.chunk.js",
-    "static/media/House.svg": "/daDataloc-FrontEnd/static/media/House.332fcb65a6b2bf727b6056925fa43494.svg",
-    "static/media/logo.png": "/daDataloc-FrontEnd/static/media/logo.0b1611b4921efd678a45.png",
-    "static/media/blobs.svg": "/daDataloc-FrontEnd/static/media/blobs.cd242e84ebb3257f3f391cf83c4f2af6.svg",
-    "index.html": "/daDataloc-FrontEnd/index.html",
-    "main.422c0d4c.js.map": "/daDataloc-FrontEnd/static/js/main.422c0d4c.js.map",
-    "787.14430825.chunk.js.map": "/daDataloc-FrontEnd/static/js/787.14430825.chunk.js.map"
+    "main.js": "/Dataloc-FrontEnd/static/js/main.15241f9d.js",
+    "static/js/787.52ac487b.chunk.js": "/Dataloc-FrontEnd/static/js/787.52ac487b.chunk.js",
+    "static/media/House.svg": "/Dataloc-FrontEnd/static/media/House.332fcb65a6b2bf727b6056925fa43494.svg",
+    "static/media/logo.png": "/Dataloc-FrontEnd/static/media/logo.0b1611b4921efd678a45.png",
+    "static/media/blobs.svg": "/Dataloc-FrontEnd/static/media/blobs.cd242e84ebb3257f3f391cf83c4f2af6.svg",
+    "index.html": "/Dataloc-FrontEnd/index.html",
+    "main.15241f9d.js.map": "/Dataloc-FrontEnd/static/js/main.15241f9d.js.map",
+    "787.52ac487b.chunk.js.map": "/Dataloc-FrontEnd/static/js/787.52ac487b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.422c0d4c.js"
+    "static/js/main.15241f9d.js"
   ]
 }
